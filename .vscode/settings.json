@@ -272,7 +272,7 @@
    * Render icons in suggestions box.
    * Defaults to true.
    */
-  // "editor.iconsInSuggestions": true,
+  "editor.iconsInSuggestions": true,
   /**
    * Options for auto closing brackets.
    * Defaults to language defined behavior.
@@ -297,7 +297,7 @@
    * Enable format on save.
    * Defaults to false.
    */
-  // "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   /**
    * Controls if the editor should allow to move selections via drag and drop.
    * Defaults to false.
